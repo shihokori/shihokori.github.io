@@ -1,7 +1,25 @@
 h1 {
+    text-align: center;
     color: white;
     font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif ;
+background-repeat: no-repeat;
+    background-image: url("https://i.ibb.co/Xtx2Q6t/IMG-8321-2.jpg");
+background-size: cover;
 }
 body {
     background-color: palegoldenrod;
 }
+
+.header{
+    background-color: #ffdab9;
+    height: 80px;
+  }
+  .header-list {
+    font-family: serif;
+    font-style: italic;
+  }
+  .header-list li {
+    list-style: none;
+    float: left;
+    padding: 33px 20px 33px 20px;
+  }
